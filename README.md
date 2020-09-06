@@ -2,24 +2,32 @@
 
 Página digital para concientizar a los alumnos y maestros de los peligros cotidianos, cualquier alumno y maestro pueda ver información, casos y con ellas hacer conciencia sobre bullying, adiciones, o peligros.
 
+***
+##
 
 ## Repositorio GitHub: 
 
 GitHub: https://github.com/Lainix/my-pagina
 
+##
+
 ## Product backlog
 
 Trello con el Procut backlog:  https://trello.com/b/X507r4dt/product-backlog
+
+##
 
 ## Fichas de Backlog
 
 Trello con el sprint planning: https://trello.com/b/xTBnvFFI/mi-p%C3%A1gina
 
+##
+
 ## Calendarización de los Sprint 
 
 Trello con la Calendarización de los Sprint: 
 
-
+##
 
 ## Referencias Bibliográficas:
 
