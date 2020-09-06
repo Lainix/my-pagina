@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/my-pagina/static/css/main.3a96c804.chunk.css",
-    "main.js": "/my-pagina/static/js/main.97cf77bc.chunk.js",
-    "main.js.map": "/my-pagina/static/js/main.97cf77bc.chunk.js.map",
+    "main.css": "/my-pagina/static/css/main.7b3ef9df.chunk.css",
+    "main.js": "/my-pagina/static/js/main.5d903a53.chunk.js",
+    "main.js.map": "/my-pagina/static/js/main.5d903a53.chunk.js.map",
     "runtime-main.js": "/my-pagina/static/js/runtime-main.d855da23.js",
     "runtime-main.js.map": "/my-pagina/static/js/runtime-main.d855da23.js.map",
     "static/js/2.191148a8.chunk.js": "/my-pagina/static/js/2.191148a8.chunk.js",
     "static/js/2.191148a8.chunk.js.map": "/my-pagina/static/js/2.191148a8.chunk.js.map",
     "index.html": "/my-pagina/index.html",
-    "precache-manifest.a2ce062dabcded7921545a660286b9a0.js": "/my-pagina/precache-manifest.a2ce062dabcded7921545a660286b9a0.js",
+    "precache-manifest.336f47956ad43061698719ebb1ab8717.js": "/my-pagina/precache-manifest.336f47956ad43061698719ebb1ab8717.js",
     "service-worker.js": "/my-pagina/service-worker.js",
-    "static/css/main.3a96c804.chunk.css.map": "/my-pagina/static/css/main.3a96c804.chunk.css.map",
+    "static/css/main.7b3ef9df.chunk.css.map": "/my-pagina/static/css/main.7b3ef9df.chunk.css.map",
     "static/js/2.191148a8.chunk.js.LICENSE.txt": "/my-pagina/static/js/2.191148a8.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/my-pagina/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.d855da23.js",
     "static/js/2.191148a8.chunk.js",
-    "static/css/main.3a96c804.chunk.css",
-    "static/js/main.97cf77bc.chunk.js"
+    "static/css/main.7b3ef9df.chunk.css",
+    "static/js/main.5d903a53.chunk.js"
   ]
 }
