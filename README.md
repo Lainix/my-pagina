@@ -26,8 +26,8 @@ Trello con el sprint planning: https://trello.com/b/xTBnvFFI/mi-p%C3%A1gina
 
 Calendarización del Sprint:
 
-![Sprint](public/sprint.PNG)
-![Sprint_2](../public/sprint2.PNG)
+![Sprint](sprint.PNG)
+![Sprint_2](sprint2.PNG)
 
 ##
 ## Referencias Bibliográficas:
