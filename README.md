@@ -1,34 +1,34 @@
 ### Diseño y ejecución de página digital de concientización sobre Bullying, adiciones, o peligros.:
 
+## PrevenciónDelAcoso.com
+
 Página digital para concientizar a los alumnos y maestros de los peligros cotidianos, cualquier alumno y maestro pueda ver información, casos y con ellas hacer conciencia sobre bullying, adiciones, o peligros.
 
 ***
 ##
-
 ## Repositorio GitHub: 
 
 GitHub: https://github.com/Lainix/my-pagina
 
 ##
-
 ## Product backlog
 
 Trello con el Procut backlog:  https://trello.com/b/X507r4dt/product-backlog
 
 ##
-
 ## Fichas de Backlog
 
 Trello con el sprint planning: https://trello.com/b/xTBnvFFI/mi-p%C3%A1gina
 
 ##
-
 ## Calendarización de los Sprint 
 
-Trello con la Calendarización de los Sprint: 
+Calendarización del Sprint:
+
+![Sprint](./public/sprint.PNG)
+![Sprint_2](./public/sprint2.PNG)
 
 ##
-
 ## Referencias Bibliográficas:
 
 1. García N., Ernesto. (18 de 02 de 2019). ¡Construye tu primera aplicación web con ReactJS! Recuperado de https://medium.com/@ernestognw/construye-tu-primera-aplicaci%C3%B3n-web-con-reactjs-parte-1-4c8bcca3b9db
@@ -42,14 +42,18 @@ Trello con la Calendarización de los Sprint:
 ***
 ##
 
-### Instruciones:
+### Instruciones
 
-Descarga o clona mi repositorio
+Pasos a seguir:
 
-Para iniciar usaremos npm start
+Descarga o clonar mi repositorio
+
+En la consola de comandos (cdm) usar:
+npm start
+
 
 O podemos visualizar directamente el proyecto aquí: [https://lainix.github.io/my-pagina/](https://lainix.github.io/my-pagina/) Proyecto.
 
 
-
+***
 Paquetes Ejecutables: [https://lainix.github.io/my-pagina/](https://lainix.github.io/my-pagina/) Proyecto.
