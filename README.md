@@ -1,4 +1,5 @@
-### Diseño y ejecución de página digital de concientización sobre Bullying, adiciones, o peligros.:
+### Diseño y ejecución de página digital de concientización sobre Bullying, adiciones, o peligros:
+
 
 ## PrevenciónDelAcoso.com
 
@@ -25,7 +26,7 @@ Trello con el sprint planning: https://trello.com/b/xTBnvFFI/mi-p%C3%A1gina
 
 Calendarización del Sprint:
 
-![Sprint](./public/sprint.PNG)
+![Sprint](../public/sprint.PNG)
 ![Sprint_2](./public/sprint2.PNG)
 
 ##
