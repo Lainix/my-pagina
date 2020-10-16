@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/my-pagina/static/css/main.d9439e95.chunk.css",
-    "main.js": "/my-pagina/static/js/main.519e7499.chunk.js",
-    "main.js.map": "/my-pagina/static/js/main.519e7499.chunk.js.map",
+    "main.js": "/my-pagina/static/js/main.1053c3a1.chunk.js",
+    "main.js.map": "/my-pagina/static/js/main.1053c3a1.chunk.js.map",
     "runtime-main.js": "/my-pagina/static/js/runtime-main.d855da23.js",
     "runtime-main.js.map": "/my-pagina/static/js/runtime-main.d855da23.js.map",
     "static/js/2.74530643.chunk.js": "/my-pagina/static/js/2.74530643.chunk.js",
     "static/js/2.74530643.chunk.js.map": "/my-pagina/static/js/2.74530643.chunk.js.map",
     "index.html": "/my-pagina/index.html",
-    "precache-manifest.124cf97e761c1649db480ac2193f9bf8.js": "/my-pagina/precache-manifest.124cf97e761c1649db480ac2193f9bf8.js",
+    "precache-manifest.0100f6c9239d1259ca088e3b5a28073c.js": "/my-pagina/precache-manifest.0100f6c9239d1259ca088e3b5a28073c.js",
     "service-worker.js": "/my-pagina/service-worker.js",
     "static/css/main.d9439e95.chunk.css.map": "/my-pagina/static/css/main.d9439e95.chunk.css.map",
     "static/js/2.74530643.chunk.js.LICENSE.txt": "/my-pagina/static/js/2.74530643.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.d855da23.js",
     "static/js/2.74530643.chunk.js",
     "static/css/main.d9439e95.chunk.css",
-    "static/js/main.519e7499.chunk.js"
+    "static/js/main.1053c3a1.chunk.js"
   ]
 }
